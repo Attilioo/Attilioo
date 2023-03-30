@@ -31,7 +31,7 @@ I'm a Front-End Developer from :it: based in :uk:
 
 - 💪 👨‍🍳 In my free time, I train and cook.
 
-- 📬 You can reach me here: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/attilio-marotta/) (or send me an email if you prefer! attilioandream@gmail.com)
+- 📬 If you want to have a chat and/or work together contact me here: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/attilio-marotta/) (or send me an email if you prefer! attilioandream@gmail.com)
 
 ---
 
