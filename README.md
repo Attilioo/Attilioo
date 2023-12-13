@@ -23,7 +23,7 @@
 
 ### :man_technologist: I'm Attilio,
 
-I'm a Full Stack Developer from based in :uk:
+I'm a Software Developer from based in :uk:
 
 - 🖥️: I’m working as a Front-End Developer and Creative Director.
 
