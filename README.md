@@ -25,11 +25,11 @@
 
 I'm a Software Developer from based in :uk:
 
-- 🖥️: I’m working as a Front-End Developer and Creative Director.
+- 🖥️: I have experience as a Front-End Developer and Creative Director.
 
 - :seedling: I enjoy everything tech and staying up to date on trends and new technologies.
 
-- 💪 👨‍🍳 In my free time, I train and cook.
+- 💪 👨‍🍳 In my free time, I train, cook and play competitive games!
 
 - 📬 If you want to have a chat and/or work together contact me here: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/attilio-marotta/) 
 <br>(or send me an email if you prefer! attilioandream@gmail.com)
