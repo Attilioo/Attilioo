@@ -22,8 +22,6 @@
 
 I'm a Software Developer based in :uk:
 
-- 🖥️: I have experience as a Front-End Developer and Creative Director.
-
 - :seedling: I enjoy everything tech and staying up to date on trends and new technologies.
 
 - 💪 👨‍🍳 In my free time, I train, cook and play competitive games!
